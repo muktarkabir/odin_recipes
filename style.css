@@ -1,0 +1,31 @@
+body{
+    background-color: goldenrod;
+}
+
+h1{
+    text-align: center;
+}
+hr.new{
+    border-top: 5px solid black;
+}
+
+a{
+    text-decoration: none;
+}
+div.recipes{
+    text-align: center;
+}
+ul.myUL{
+    display: inline-block;
+    text-align: left;
+}
+.gif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.bread{
+    height: 500px;
+    width:auto;
+}
